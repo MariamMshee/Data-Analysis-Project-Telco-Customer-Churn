@@ -1,2 +1,2 @@
 # Data-Analysis-Project-Telco-Customer-Churn
-This project aims at looking at how different factors contribute to the rate of customer churning.
+The primary goal of this project is to help identify the factors that influence whether a customer is likely to leave (churn) or stay with the company. Key features include customer tenure, monthly charges, contract type, internet service, and whether they use services like online backup or tech support. This is meant to gain valuable insights into customer behavior, improve customer service strategies, and implement targeted interventions to reduce churn and support strategic decision-making in customer relationship management..
